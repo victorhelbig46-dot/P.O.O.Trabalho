@@ -1,0 +1,18 @@
+Funcionalidades
+Cadastro de campeonatos e clubes (máx. 8 clubes).
+
+Cadastro de partidas com data e hora.
+
+Cadastro de grupos (máx. 5) e participantes (máx. 5).
+
+Registro de apostas até 20 minutos antes da partida.
+
+Registro do resultado real das partidas.
+
+Cálculo automático da pontuação:
+
+Acerto do resultado → 5 pontos
+
+Acerto do resultado + placar → 10 pontos
+
+Exibição da classificação dos participantes no grupo.
